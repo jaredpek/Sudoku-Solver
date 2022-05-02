@@ -6,3 +6,5 @@ Project Description:
 Installation:
 1. Download Project:
     - git clone https://github.com/jaredpek/Sudoku-Solver
+2. Install Requirements:
+    - pip install -r requirements.txt
